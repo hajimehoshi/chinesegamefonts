@@ -1,0 +1,20 @@
+# C0 Controls and Basic Latin
+U+0000-007F
+
+# C1 Controls and Latin-1 Supplement
+U+0080-00FF
+
+# General Punctuation
+U+2000-206F
+
+# CJK Symbols and Punctuation
+U+3000-303F
+
+# Hiragana
+U+3040-309F
+
+# Katakana
+U+30A0-30FF
+
+# Halfwidth and Fullwidth Forms
+U+FF00-FFEF
